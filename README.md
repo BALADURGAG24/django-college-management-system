@@ -59,8 +59,8 @@ A simple yet powerful **College Management System** built with Django for educat
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/HARIHARANS24/college-management-system-django.git
-   cd college-management-system-django
+   git clone https://github.com/BALADURGAG24/django-college-management-system.git
+   cd django-college-management-system
    
 ## 📁 Project Structure
 
