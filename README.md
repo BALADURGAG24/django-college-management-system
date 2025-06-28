@@ -37,7 +37,7 @@ A simple yet powerful **College Management System** built with Django for educat
 - 🔐 Secure **Login/Logout**.
 
 ---
-
+ 
 ## 🧰 Tech Stack
 
 - **Backend:** Django (Python)
