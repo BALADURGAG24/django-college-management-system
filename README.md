@@ -19,7 +19,7 @@ A simple yet powerful **College Management System** built with Django for educat
 - 🔐 Secure **Login/Logout** functionality.
 
 ### 👩‍🏫 Staff/Teachers Dashboard
-- 📊 Summary view of own subjects, student attendance, etc.
+- 📊 Summary view of own subjects, student attendance, etc. 
 - 🧾 Take and update **Student Attendance**.
 - 🧮 Add and update **Student Results**.
 - 📝 Apply for **Leave**.
