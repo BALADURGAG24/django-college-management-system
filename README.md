@@ -12,7 +12,7 @@ A simple yet powerful **College Management System** built with Django for educat
 - 👨‍🎓 Manage **Students** (Add, Update, Delete).        
 - 📚 Manage **Courses** and **Subjects**.      
 - 📅 Manage **Sessions** (Academic Years).   
-- 📌 View and manage **Student Attendance**.  
+- 📌 View and manage **Student Attendance**.   
 - 💬 Review and reply to **Feedback** from staff and students.
 - 📝 Approve/Reject **Leave Applications**.
 - ⚙️ Update **Admin Profile**.
