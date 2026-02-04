@@ -4,7 +4,7 @@ A simple yet powerful **College Management System** built with Django for educat
 
 ---
 
-## 🚀 Features  
+## 🚀 Features   
       
 ### 🛠 Admin Panel      
 - 📊 View dashboard summary of student & staff performance.     
