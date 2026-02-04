@@ -8,7 +8,7 @@ A simple yet powerful **College Management System** built with Django for educat
       
 ### 🛠 Admin Panel       
 - 📊 View dashboard summary of student & staff performance.     
-- 👨‍🏫 Manage **Staffs** (Add, Update, Delete).           
+- 👨‍🏫 Manage **Staffs** (Add, Update, Delete).            
 - 👨‍🎓 Manage **Students** (Add, Update, Delete).              
 - 📚 Manage **Courses** and **Subjects**.      
 - 📅 Manage **Sessions** (Academic Years).        
